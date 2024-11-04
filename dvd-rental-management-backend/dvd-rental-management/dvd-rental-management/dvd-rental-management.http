@@ -1,0 +1,6 @@
+@dvd_rental_management_HostAddress = http://localhost:5249
+
+GET {{dvd_rental_management_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
